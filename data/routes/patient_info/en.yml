@@ -1,0 +1,13 @@
+id: patient
+
+fields:
+  pageTitle: Patient Information
+placeholders:
+  jss-main:
+    - componentName: PatientInfo
+      fields:
+        patientName: Kavita
+        patientGender: Male
+        patientDob: "24-03-1993"
+        patientNo: 1
+        patientPhoneNumber: 6767676767

@@ -1,0 +1,12 @@
+id: Doctor-Info
+
+fields:
+  pageTitle: Doctor Information
+placeholders:
+  jss-main:
+    - componentName: DoctorInfo
+      fields:
+        doctorName: Dr. Raj
+        doctorQualification: MBBS, MD
+        doctorSpeciality: Dermatologists
+        doctorExperience: 6

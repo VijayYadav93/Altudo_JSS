@@ -1,0 +1,26 @@
+id: HealthArticle
+
+fields:
+  pageTitle: Health Article
+placeholders:
+  jss-main:
+    - componentName: AppSearch
+      fields:
+        heading: AppSearch-Test
+    - componentName: RelatedArticle
+      fields:
+        relatedArticleTitle: Related Article
+    - componentName: HealthArticle
+      fields:
+        Title: Lung Cancer
+        Brief: 'This Article related to Lung Cancer'
+        DetailedArticle: 'The beneficial results achieved with adjuvant chemotherapy in the general population with early non small-cell lung cancer (NSCLC) cannot be automatically extrapolated to the elderly, who are at higher risk of toxicity. Retrospective analyses of combined chemoradiotherapy in locally advanced NSCLC patients suggest equivalent therapeutic benefit for younger and older patients, despite heightened toxicity. There have been no elderly-specific phase III trials for locally advanced NSCLC. For advanced NSCLC, on the basis of evidence-based data, single-agent chemotherapy remains the standard of care for nonselected elderly patients. However, retrospective analyses suggest that the efficacy of platinum-based combination chemotherapy is similar in fit older and younger patients, with increased but acceptable toxicity for elderly patients. In limited-disease small-cell lung cancer (SCLC), sequential chemoradiotherapy is clearly less toxic compared with a standard concurrent approach, but our assessment of treatment is hindered by the absence of prospective elderly-specific trials. Although prophylactic cranial irradiation has emerged as a standard strategy, it should be omitted in patients with cognitive impairment. In extensive SCLC, etoposide in combination with either cisplatin or carboplatin has emerged as standard treatment; hematopoietic support may be necessary.'
+        ArticleImage:
+          src: /data/media/img/sc_logo.png
+          alt: Siyecore Logo
+        ArticleAuthors:
+          - id: Doctor-1
+          - id: Doctor-2
+    - componentName: CarouselImage
+      fields:
+        heading: Test

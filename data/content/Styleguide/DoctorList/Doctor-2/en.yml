@@ -1,0 +1,9 @@
+id: Doctor-2
+displayName: Doctor-2
+# Template defines the available fields. See /sitecore/definitions/templates/Styleguide-ContentList-Template.sitecore.js
+template: DoctorList-Template
+fields:
+  doctorName: Dr-2 
+  doctorUrl:
+    href: /doctor-test-screen-1
+    text: Doctor-2

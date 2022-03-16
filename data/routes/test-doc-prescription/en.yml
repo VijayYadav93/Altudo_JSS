@@ -1,0 +1,10 @@
+id: doc-prescription
+
+fields:
+  pageTitle: Doctor Prescription
+placeholders:
+  jss-main:
+    - componentName: DoctorPrescription
+      fields:
+        prescription: Paracetamol
+        dateOfPrescription: "24-03-2022"

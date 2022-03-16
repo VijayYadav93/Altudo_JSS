@@ -1,0 +1,10 @@
+id: PageNotFound
+
+fields:
+  pageTitle: PageNotFound
+placeholders:
+  jss-main:
+    - componentName: PageNotFound
+      fields:
+        Title: PageNotFound
+        Description: Searching Page Is Not Avilable
